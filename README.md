@@ -14,6 +14,6 @@ Full-Stack Developer and Applied AI Builder focusing on modern web architectures
 - 📚 Deepening production architectures in Next.js and distributed systems.
 
 ### 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
-- [Twitter/X](https://x.com/your-handle)
+- [LinkedIn](https://linkedin.com/in/aadisthunder)
+- [Instagram](https://instagram.com/aadisthunder)
 - [YouTube](https://youtube.com/@aadisthunder)
