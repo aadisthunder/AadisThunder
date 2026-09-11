@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Aaditya Parkash 👋
 
-<!--
-**aadisthunder/AadisThunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer and Applied AI Builder focusing on modern web architectures and autonomous AI workflows. Currently building and scaling SaaS tools in public.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Databases:** MongoDB, PostgreSQL
+- **AI & Automation:** Agentic Coding, RAG Pipelines, LLM Integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🌐 Building modern SaaS web generation engines and AI-driven workflows.
+- ⚡ Documenting engineering builds and development journeys publicly (`@aadisthunder`).
+- 📚 Deepening production architectures in Next.js and distributed systems.
+
+### 📬 Connect With Me
+- [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+- [Twitter/X](https://x.com/your-handle)
+- [YouTube](https://youtube.com/@aadisthunder)
