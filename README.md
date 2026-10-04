@@ -3,15 +3,15 @@
 # Hey there, I'm Aaditya Parkash 👋
 
 <p>
-  <strong>Full-Stack Developer · Applied AI Engineer · Open Source Builder</strong><br />
-  Engineering privacy-first agent loops, adaptive learning engines, and high-performance modern web architectures.
+  <strong>MERN Stack + Agentic AI Developer · Open Source Builder</strong><br />
+  Engineering autonomous agent workflows, modern MERN architectures, and cross-platform desktop/mobile systems.
 </p>
 
 <p>
   <a href="https://linkedin.com/in/aadisthunder"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@aadisthunder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://instagram.com/aadisthunder"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:aadityaparkash.india@gmail.com"><img src="https://img.shields.io/badge/Email-aadityaparkash.india%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aadisthunder@gmail.com"><img src="https://img.shields.io/badge/Email-aadisthunder%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -73,40 +73,36 @@
 
 <div align="center">
 
-#### AI & Autonomous Workflows
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=4ade80)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#### MERN Stack & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frontend & Mobile
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+#### Frontend, Mobile & Desktop
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
-#### Backend, Cloud & Storage
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+#### Cloud & Backend Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</div>
+#### Agentic AI & Workflows
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Loops-7C3AED?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=4ade80)
 
----
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aadisthunder&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=94A3B8&icon_color=7C3AED" alt="Aaditya's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aadisthunder&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=94A3B8" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <em>⚡ "Building in public, shipping applied AI architectures, and writing clean, scalable software."</em>
+  <em>⚡ "Building in public, shipping agentic AI architectures, and writing clean, scalable software."</em>
 </div>
